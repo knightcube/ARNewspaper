@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="manikarnika" size="4.000000 3.625225" />
+    <ImageTarget name="thackeray" size="4.000000 4.021030" />
+    <ImageTarget name="xavotsav" size="5.000000 3.068150" />
+    <ImageTarget name="acc_pm" size="4.000000 4.030492" />
+  </Tracking>
+</QCARConfig>
